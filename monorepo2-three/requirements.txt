@@ -1,0 +1,3 @@
+../monorepo2-four
+git+ssh://git@github.com:PeturEgilsson-Zoetis/repo1
+pytest-html
